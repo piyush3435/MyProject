@@ -13,6 +13,7 @@ import com.example.myproject.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 // chANGES
+    // new changese
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
