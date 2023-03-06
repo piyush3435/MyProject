@@ -12,7 +12,7 @@ import android.view.MenuItem
 import com.example.myproject.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
+// chANGES
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
